@@ -5,8 +5,6 @@
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)]([MIT](https://github.com/NevermoreKatana/TelegrammBot/blob/main/LICENSE))
 <a href="https://codeclimate.com/github/NevermoreKatana/TelegrammBot/maintainability"><img src="https://api.codeclimate.com/v1/badges/a18bbde6ceb83d476c9c/maintainability" /></a>
 
