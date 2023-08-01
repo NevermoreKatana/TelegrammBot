@@ -30,7 +30,6 @@
 В Amplitude отправляются события о регистрации, выборе персонажа, создании запроса от пользователя, получении запроса от искусственного интеллекта, а также отслеживании доставки сообщения до пользователя. Этот инструмент используется для сбора, анализа и визуализации данных о поведении пользователей в приложениях.
 
 ## Installation
-
 Установка проекта
 1. Создайте проект
 2. Разверните виртуальное окружение
@@ -72,15 +71,10 @@ PG_HOST = os.environ["PG_HOST"]
 Для создания открытого https web-app использовался репозиторий на гитхабе настроенный как страница
 - [@WEB-APP](https://github.com/NevermoreKatana/web-app)
 
-
 ## Authors
 
 - [@KatanaNevermore](https://github.com/NevermoreKatana)
 - [@KatanaNevermore(Tg)](https://t.me/nevermorekatana)
-
-[MIT](https://github.com/NevermoreKatana/TelegrammBot/blob/main/LICENSE)
-
-
 
 ## License
 
